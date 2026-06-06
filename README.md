@@ -4,7 +4,7 @@
 
 ### Electronics & Communication Engineering @ VIT Vellore
 
-🚀 Building at the intersection of Embedded Systems, IoT, AI, Robotics & Full-Stack Development
+🚀 Building at the intersection of Embedded Systems, IoT, AI, Robotics
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;IoT+Enthusiast;AI+%26+Robotics+Builder;ESP32+%7C+Arduino+%7C+Firebase;Always+Learning+Something+New" />
 
@@ -17,10 +17,6 @@
 🎓 B.Tech Electronics & Communication Engineering, VIT Vellore
 
 🔬 Passionate about Embedded Systems, IoT, Robotics and AI
-
-🏆 Special Mention Award – Schneider Electric Screen Craft Hackathon
-
-🏆 Team Leader – Smart India Hackathon Screening Round
 
 📜 Co-Inventor of a Patent Published Assistive Safety System
 
@@ -35,6 +31,24 @@
 💡 I love transforming ideas into real-world hardware solutions.
 
 ---
+# 💼 Experience
+
+🚀 Summer Intern
+Indian Space Research Organisation (ISRO) – URSC, Bengaluru
+
+🔬 IoT & Embedded Systems Intern
+SVNT Infotech
+
+👨‍💼 Research & Development Head
+ISTE VIT Vellore
+
+👨‍🏫 Conducted workshops and technical sessions on:
+- ESP32 & ESP8266
+- Embedded Systems
+- IoT Development
+- Sensor Interfacing
+- Robotics
+---
 
 # 🛠 Tech Stack
 
@@ -44,7 +58,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 ---
@@ -177,37 +190,21 @@ Designed for:
 
 # 🏆 Achievements
 
-🥇 Special Mention – Schneider Electric Screen Craft Hackathon
+🥇 1st Prize (Best Track: Electrical & Electronics)
+Yantra Central Hack'26
+(February 2026)
 
-🥇 Team Leader – Smart India Hackathon Screening Round
+🥇 Winner – Connectron'25 Hackathon
+Organized by IEEE ComSoc & IEEE PCS
+(February 2025)
 
-🎯 Organized Hardware Event during Gravitas 2024
+🌟 Special Mention Award – Screencraft'24 Hackathon
+Organized by Schneider Electric & SELECT School, VIT
+(September 2024)
 
-🎯 Developed Smart Home Monitoring Bot
-
-🎯 Multiple IoT & Embedded Systems Projects
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
+🎖 AIR 65 – National Science Talent Search Examination (NSTSE)
+Conducted by Unified Council
+(February 2023)
 
 ---
 
@@ -215,7 +212,7 @@ Designed for:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-jaiswal007/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Ayushjaiswal-17)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge)](YOUR_WEBSITE)
 
@@ -225,6 +222,6 @@ Designed for:
 
 ### ⚡ Building Technology That Solves Real Problems
 
-"Embedded Systems • IoT • AI • Robotics"
+"Embedded Systems • IoT • AI"
 
 </div>
